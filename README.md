@@ -1,4 +1,4 @@
-# 🌐 Prosty Projekt HTML/CSS – Główna Gałąź
+# 🌐 Prosty Projekt HTML/CSS
 
 To jest podstawowa wersja statycznej strony wykonanej z użyciem czystego HTML i CSS.
 
